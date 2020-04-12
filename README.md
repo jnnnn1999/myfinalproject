@@ -12,5 +12,5 @@ $ npm install
 Run app
 
 ```sh
-$ npm start
+$ npm run dev
 ```
