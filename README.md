@@ -1,15 +1,16 @@
 # myfinalproject
-Usage
+## Usage
 
 
-Installation
-
+### Installation
 
 Install the dependencies
 
+```sh
 $ npm install
-
-
+```
 Run app
 
-$ npm run dev
+```sh
+$ npm start
+```
